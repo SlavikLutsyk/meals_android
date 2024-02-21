@@ -1,0 +1,1 @@
+MVVM, Retrofit, Jetpack Compose with Navigation
